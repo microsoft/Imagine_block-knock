@@ -37,7 +37,7 @@ Remember where you save these Block Knock files, since Unity needs to know where
 * **Microsoft Virtual Academy:** [https://mva.microsoft.com](http://mva.microsoft.com)  Motivated to learn even more? Explore free, online training here!
 
 ## How do I help?
-Read up further on [contributing here]().
+Read up further on [contributing here](https://github.com/Microsoft/block-knock/blob/master/CONTRIBUTING.md).
 
 ## LICENSE
 
