@@ -8,6 +8,7 @@ Microsoft Imagine gives you the tools you need to experiment, explore, and launc
 
 ## What is this?
 ![gameplay sample](https://github.com/Microsoft/block-knock/blob/master/BlockKnockGameplay.gif)
+
 This repository holds the assets and C# source code for the game, **Block Knock**. 
 
 If you're new to Unity, C#, or just need some guidance overall, [head to the Block Knock page](https://msdn.microsoft.com/imagine/imagine-create020) on the [Microsoft Imagine site](http://imagine.microsoft.com) and follow our steps in the embedded Office Mix to complete the code for your own version of the game.
