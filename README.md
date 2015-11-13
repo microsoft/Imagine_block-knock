@@ -31,10 +31,10 @@ Click on the **Clone in Desktop** button to the right and you'll make a copy of 
 Remember where you save these Block Knock files, since Unity needs to know where to work!
 
 ## Other pages of interest:
-* **Microsoft Imagine website:** [http://imagine.microsoft.com](http://imagine.microsoft.com) Discover more software tools, contests, and other kits!
-* **Imagine Learn-to-Code kits and activities:** [https://msdn.microsoft.com/imagine/imagine-create](https://msdn.microsoft.com/imagine/imagine-create) Offering a wide variety of coding kits to learn from and modify!
-* **Imagine Cup:** [https://www.imaginecup.com/](https://www.imaginecup.com/) Offering opportunities for students worldwide to create life-changing solutions.
-* **Microsoft Virtual Academy:** [https://mva.microsoft.com](http://mva.microsoft.com)  Motivated to learn even more? Explore free, online training here!
+* Microsoft Imagine website:(http://imagine.microsoft.com) Discover more software tools, contests, and other kits!
+* Imagine Learn-to-Code kits and activities:(https://msdn.microsoft.com/imagine/imagine-create) Offering a wide variety of coding kits to learn from and modify!
+* Imagine Cup website:(https://www.imaginecup.com/) Offering opportunities for students worldwide to create life-changing solutions.
+* Microsoft Virtual Academy:(http://mva.microsoft.com) Motivated to learn even more? Explore free, online training here!
 
 ## How do I help?
 Read up further on [contributing here](https://github.com/Microsoft/block-knock/blob/master/CONTRIBUTING.md).
