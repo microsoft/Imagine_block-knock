@@ -1,4 +1,4 @@
-![](https://github.com/Microsoft/block-knock/blob/master/Microsoft-Imagine.png)
+![](https://github.com/Microsoft/Imagine_block-knock/blob/master/Microsoft-Imagine.png)
 
 ## Welcome to Microsoft Imagine's Block Knock
 Hello from the [Microsoft Imagine team](http://imagine.microsoft.com)! Thanks for checking out **Block Knock**, a game where careful targeting keeps key blocks on the board!
@@ -7,7 +7,7 @@ Hello from the [Microsoft Imagine team](http://imagine.microsoft.com)! Thanks fo
 Microsoft Imagine gives you the tools you need to experiment, explore, and launch your ideas.  Learn the basics of coding and you can create anything you dream. See where you can take code, and where coding can take you.  
 
 ## What is this?
-![gameplay sample](https://github.com/Microsoft/block-knock/blob/master/BlockKnockGameplay.gif)
+![gameplay sample](https://github.com/Microsoft/Imagine_block-knock/blob/master/BlockKnockGameplay.gif)
 
 This repository holds the assets and C# source code for the game, **Block Knock**. 
 
@@ -37,7 +37,7 @@ Remember where you save these Block Knock files, since Unity needs to know where
 * [Microsoft Virtual Academy:](http://mva.microsoft.com) Motivated to learn even more? Explore free, online training here!
 
 ## How do I help?
-Read up further on [contributing here](https://github.com/Microsoft/block-knock/blob/master/CONTRIBUTING.md).
+Read up further on [contributing here](https://github.com/Microsoft/Imagine_block-knock/blob/master/CONTRIBUTING.md).
 
 ## LICENSE
 
