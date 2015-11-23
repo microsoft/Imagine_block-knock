@@ -1,0 +1,20 @@
+Key,English,Pirate
+Language,English,Scurvy Pirate
+Tutorial Description,"Knock the teal Blocks off the surface completely,\nwithout losing any of the orange Cylinders!","Shoot t' scurvy teal Blocks off t' surface completely,\nwithout losin' any o' t' orange Cylinders!"
+Tutorial LMB,Shoot,Fire
+Tutorial RMB,Rotate\nCamera,Move\nTelescope
+Tutorial Escape,Esc,Esc
+Tutorial Quit,Quit,Quit
+Button Start,Start,Ahoy!
+Level Complete Description,Nice Work!,Yohoho!
+Game Complete Description,You Win!,Ye Win!
+Game Over Description,Game Over,Ye lost th' battle
+Button Retry,Retry,Retry
+Button Restart,Start Over,Avast!
+Button Next,Next,Next
+HUD Level,Level: {0},Level: {0}
+HUD Throws,Throws: {0},Shots: {0}
+HUD Rank,Rank: {0},Booty: {0}
+Rank Gold,Gold,Gold
+Rank Silver,Silver,Silver
+Rank Bronze,Bronze,Bronze
