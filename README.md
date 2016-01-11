@@ -43,7 +43,7 @@ Read up further on [contributing here](https://github.com/Microsoft/Imagine_bloc
 
 Block Knock
 
-Copyright (c) 2015 Microsoft Corporation
+Copyright (c) 2016 Microsoft Corporation
 
 All rights reserved. 
 
